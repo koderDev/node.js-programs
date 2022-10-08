@@ -1,12 +1,12 @@
 const welcome = {
   
     sayHello : function() {
-        console.log("Hello GeekforGeeks user");
+        console.log("Hello koderDevs user");
   },
   
   currTime : new Date().toLocaleDateString(),
   
-  companyName : "GeekforGeeks"
+  companyName : "koderDevs"
 }
   
 module.exports = welcome
