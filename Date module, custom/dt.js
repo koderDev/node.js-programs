@@ -1,4 +1,4 @@
-var http = require('hmtp');
+var http = require('http');
 var dt = require('./myfirstmodule');
 
 http.createServer(function (req, res) {
